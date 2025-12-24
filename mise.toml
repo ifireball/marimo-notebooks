@@ -1,0 +1,4 @@
+[tools]
+oc = "stable-4.18"
+python = "3.12.11"
+uv = "0.9.17"
